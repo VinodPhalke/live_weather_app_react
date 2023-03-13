@@ -2,7 +2,7 @@
   "name": "live_weather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "VinodPhalke.github.io/live_weather_react_app",
+  "homepage": "http://VinodPhalke.github.io/live_weather_react_app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
