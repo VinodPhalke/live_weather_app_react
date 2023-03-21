@@ -13,7 +13,7 @@
     "react": "^18.2.0",
     "react-animated-weather": "^4.0.1",
     "react-dom": "^18.2.0",
-    "react-geolocated": "^4.0.3",
+    "react-geo_located": "^4.0.3",
     "react-live-clock": "^6.1.13",
     "react-scripts": "5.0.1",
     "stream": "^0.0.2",
@@ -23,7 +23,7 @@
     "zlib": "^1.0.5"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "pre_deploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
