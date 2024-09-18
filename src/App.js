@@ -13,7 +13,7 @@ function App() {
           Download Source Code
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
+        <a target="_blank" href="https://github.com/VinodPhalke/live_weather_app_react">
           Vinod Phalke
         </a>{" "}
         | Powered by{" "}
